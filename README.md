@@ -61,9 +61,3 @@ The main feature of this project is the interactive dashboard, offering a consol
 - Enhance the dashboard with drill-down capabilities to explore data more deeply by individual products or customer segments.
 - Integrate new data sources for more comprehensive insights (e.g., marketing campaigns, supply chain data).
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-This README provides a high-level overview of the coffee sales dashboard project. Let me know if you need any changes or additional details!
